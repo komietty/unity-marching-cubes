@@ -4,11 +4,11 @@ unity marching cubes module with forward rendering
 
 ![img](Imgs/cross.gif)
 
-![img](Imgs/editor1.png)
+![img](Imgs/editor1.PNG)
 
-![img](Imgs/editor2.png)
+![img](Imgs/editor2.PNG)
 
-![img](Imgs/editor3.png)
+![img](Imgs/editor3.PNG)
 
 ## Compatibility
 
