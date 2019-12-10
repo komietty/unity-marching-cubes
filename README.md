@@ -1,6 +1,6 @@
 # unity-marching-cubes
 
-unity marching cubes module with forward rendering
+Unity marching cubes module with forward rendering. This module was used for video performance @ Shibuya Stream in Tokyo.
 
 ## Demo
 
